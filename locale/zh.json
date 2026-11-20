@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sysmac 工程离线解析",
+    "description": "在 DSH 里离线读取欧姆龙 Sysmac Studio 的 .smc2 工程：变量表（SLWD）、.oem 实体层级与梯形图 PouBody 逻辑。不需要装 Sysmac Studio，不联网，不依赖 Python。",
+    "detail": "docs/DETAIL.md"
+  }
+}

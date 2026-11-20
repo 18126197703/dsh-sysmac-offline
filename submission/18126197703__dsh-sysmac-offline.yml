@@ -1,0 +1,14 @@
+# DSH 社区市场收录清单（提交用）。
+#
+# 用法：把本文件改名为 "<GitHub 用户名>__dsh-sysmac-offline.yml"，
+# 放进仓库的 submission/ 目录，随仓库公开即可。市场每天都在抓取
+# 带 dsh-plugin topic 的仓库，并读取这里的双语描述与分类。
+#
+# 注意：本文件不进 npm tarball（package.json 的 files 未包含 submission/）。
+url: https://github.com/18126197703/dsh-sysmac-offline
+name: 18126197703/dsh-sysmac-offline
+category: tools
+description:
+  en: 'Reads OMRON Sysmac Studio .smc2 projects offline: lists variable tables (SLWD), dumps the .oem entity hierarchy, and renders ladder-logic PouBody source with per-rung contact, coil and instruction details. Zero dependencies, no Python, no network, read-only.'
+  zh: '离线读取欧姆龙 Sysmac Studio 的 .smc2 工程：列出变量表（SLWD）、导出 .oem 实体层级、把梯形图 PouBody 渲染成逐条 rung 的触点/线圈/指令解读。零依赖、不需要 Python、不联网、只读不回写。'
+icon: https://raw.githubusercontent.com/18126197703/dsh-sysmac-offline/main/icon.svg

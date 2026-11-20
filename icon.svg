@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ladder logic in a Sysmac project">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f3a5f"/>
+      <stop offset="1" stop-color="#0f2135"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="13" fill="url(#bg)"/>
+  <g stroke="#5fd0f5" stroke-width="3" stroke-linecap="round">
+    <line x1="18" y1="14" x2="18" y2="50"/>
+    <line x1="46" y1="14" x2="46" y2="50"/>
+  </g>
+  <g stroke="#cfe9f7" stroke-width="2.6" stroke-linecap="round" fill="none">
+    <path d="M18 22 H27"/>
+    <path d="M31 22 H46"/>
+    <path d="M18 32 H46"/>
+    <path d="M18 42 H27"/>
+    <path d="M31 42 H46"/>
+  </g>
+  <g stroke="#7fe0a0" stroke-width="2.4" stroke-linecap="round">
+    <line x1="27" y1="18.5" x2="27" y2="25.5"/>
+    <line x1="31" y1="18.5" x2="31" y2="25.5"/>
+    <line x1="27" y1="38.5" x2="27" y2="45.5"/>
+    <line x1="31" y1="38.5" x2="31" y2="45.5"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sysmac project reader",
+    "description": "Read OMRON Sysmac Studio .smc2 projects offline: variable tables (SLWD), the .oem entity hierarchy and ladder-logic PouBody source. No Sysmac Studio installation, no network, no Python.",
+    "detail": "docs/DETAIL.md"
+  }
+}

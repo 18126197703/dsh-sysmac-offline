@@ -1,0 +1,7 @@
+# dsh-sysmac-offline —— DSH bundle patch
+#
+# 只插入一行：宿主插件 dsh-sysmac-offline 本身。
+# 解析全部在宿主进程内完成，所以这里没有子进程、没有绝对路径、没有外部依赖。
+- insert:
+    - id: sysmac-offline
+      name: 'dsh-sysmac-offline'
